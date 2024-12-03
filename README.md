@@ -28,7 +28,7 @@ brew install mailsy
 
 ## Usage
 
-**Creating Email**
+**Creating Email Address**
 
 Email will be copied to clipboard!
 
@@ -53,7 +53,7 @@ foo@bar:~$ mailsy m
 
 **Delete Account**
 
-if you want to dispose a email and get the new one use:
+If you want to dispose an email address and to get a new one use:
 
 ```console
 foo@bar:~$ mailsy d
